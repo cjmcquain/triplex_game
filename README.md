@@ -1,1 +1,1 @@
-"# TripleX Game" 
+# TripleX Game
